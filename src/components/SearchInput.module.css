@@ -1,0 +1,8 @@
+.search-input {
+  border: 2px solid rgb(231, 145, 159);
+  outline: none;
+  padding: 10px 10px;
+}
+.search-input:focus {
+  border: 2px solid rgb(231, 77, 103);
+}
